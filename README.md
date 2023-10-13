@@ -1,7 +1,7 @@
 # desafios-js
 desafios simples de programação para aprimorar a lógica e habilidades de codificação em javascript.
 
-![img-readme-list](https://github.com/ivitorh/to-do_list/assets/78832973/8b116415-8f61-444f-901b-832cecd4e24a)
+![js](https://github.com/ivitorh/desafios-js/assets/78832973/e047f922-28fc-4f72-84e0-a3411babf8fa)
 
 ### Tecnologias Utilizadas
 * Frontend: O projeto utiliza para resolução dos problemas apenas **JAVASCRIPT**.
